@@ -1,6 +1,6 @@
-(footprint "big_transformer" (version 20211014) (generator pcbnew)
+(footprint "BN-43-3312" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62943FF3)
+  (tedit 62C96804)
   (property "Sheetfile" "RF_Linear.kicad_sch")
   (property "Sheetname" "")
   (attr smd)
@@ -37,7 +37,7 @@
   (pad "2" smd roundrect (at -16 5) (size 2.286 4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2a97cbc6-fb8b-4756-bd26-62b27062d964))
   (pad "3" smd roundrect (at 16 -5) (size 2.286 4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d012688b-7a14-45be-8853-ccc0dc10dc71))
   (pad "4" smd roundrect (at 16 5) (size 2.286 4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 01c517db-db70-46d2-9618-e9aeac9589c3))
-  (model "${KICAD6_3DMODELS}/big_output_transformer.wrl"
+  (model "${KIPRJMOD}/kicad_library/3d_models/BN-43-3312_transformer.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -6,7 +6,7 @@
     (property "Value" "BN-43-3312" (id 1) (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "ag_transformers:BN-43-3312" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 0 0 0)
