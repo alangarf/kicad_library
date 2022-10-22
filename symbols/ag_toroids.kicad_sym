@@ -6,7 +6,7 @@
     (property "Value" "T37-43" (id 1) (at 2.794 0 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "ag_toroids:T37-2" (id 2) (at -3.175 0 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 0 0 0)
