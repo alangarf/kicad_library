@@ -41,8 +41,8 @@
   (pad "2" smd roundrect (at -3 2.54) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 7e025565-6f9d-4a1c-999d-a54f69c481d2))
   (pad "3" smd roundrect (at 3 -2.5) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 27284a32-4408-49d7-945d-c0643a41fb2d))
   (pad "4" smd roundrect (at 3 2.54) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a4b23bf9-4ea2-41b2-a170-c842c7855c9a))
-  (model "${KICAD6_3DMODELS}/coil_t37_2001.wrl"
-    (offset (xyz 0 0 0.06))
+  (model "${KIPRJMOD}/kicad_library/3d_models/coil_t37_2001.wrl"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
